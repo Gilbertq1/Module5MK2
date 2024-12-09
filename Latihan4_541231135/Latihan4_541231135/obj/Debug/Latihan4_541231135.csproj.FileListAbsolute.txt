@@ -1,0 +1,10 @@
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\bin\Debug\Latihan4_541231135.exe.config
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\bin\Debug\Latihan4_541231135.exe
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\bin\Debug\Latihan4_541231135.pdb
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\obj\Debug\Latihan4_541231135.csproj.AssemblyReference.cache
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\obj\Debug\Latihan4_541231135.Form_Agama.resources
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\obj\Debug\Latihan4_541231135.Properties.Resources.resources
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\obj\Debug\Latihan4_541231135.csproj.GenerateResource.cache
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\obj\Debug\Latihan4_541231135.csproj.CoreCompileInputs.cache
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\obj\Debug\Latihan4_541231135.exe
+D:\MK2\Module5\Latihan4_541231135\Latihan4_541231135\obj\Debug\Latihan4_541231135.pdb
